@@ -38,4 +38,13 @@
   },
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "workbench.tree.indent": 20,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
